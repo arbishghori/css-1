@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>assignment3.html</title>
+   <link rel="stylesheet" href="./style.css">
+<body>
+   <h1>cucumber</h1>
+   <p>All that water in cucumbers can help keep you hydrated. Plus, the fiber boost they give you helps you stay regular and avoid constipation.</p>
+   <style type="text/css">
+   {font-family: arial;
+   background-color: rgb(185,179,175);}
+   h2 {color: rgb(0,255,19);}</style>
+   <style type="text/css">
+   {font-family: arial;
+   background-color: rgb(185,179,175);}
+   h1 {color: rgb(0,150,255);}</style>
+  <h1>cucumber</h1>
+  <p>All that water in cucumbers can help keep you hydrated. Plus, the fiber boost they give you helps you stay regular and avoid constipation.</p>
+  <h1 id="top">Kitchen Garden Calendar</h1>
+
+ <p id="introduction">Here you can read our 
+ handy guide about what to do when.</p>
+ <h2>Spring</h2>
+ <ul>
+ <li><a href="mulch.html">
+ Spring mulch vegetable beds</a></li>
+ <li><a href="potato.html">
+ Plant out early potatoes</a></li>
+ <li><a href="tomato.html">
+ Sow tomato seeds</a></li>
+ <li><a href="beet.html">
+ Sow beet seeds</a></li>
+ <li><a href="zucchini.html">
+ Sow zucchini seeds</a></li>
+ <li><a href="rhubarb.html">
+ Deadhead rhubarb flowers</a></li>
+ </ul>
+ <p class="note">
+ This page was written by 
+ <a href="mailto:ivy@example.org">
+ ivy@example.org</a> for 
+ <a href="http://www.example.org">Example</a>.
+ </p>
+ <p>
+ <a href="#top">Top of page</a>
+ </p>
+<p id="intro">All that water in <i>cucumbers</i> can help keep you <b>hydrated</b></p>
+<div class="page">
+
+<h1>cucumber</h1>
+<p>All that water in cucumbers can help keep you hydrated.</p>
+<p>Plus, the fiber boost they give you helps you stay regular and avoid constipation.</p>
+<style type="text/css">
+ </style>
+<h2>cucumber</h2>
+<p id="intro">all that water in cucumbers can<i>help</i>keep you
+<b>hydrated</b>plus,the fiber boost they give you helps you stay regular and avoid constipation.</p>
+</div>
+<div class="page">
+<h3>cucumber</h3>
+<p>All that water in cucumbers can help keep you hydrated.</p>
+<p>Plus, the fiber boost they give you helps you stay regular and avoid constipation.</p>
+</div>
+<h3>What is paragraph writing?</h3>
+<h4>Paragraph writing is a process of writing a self-contained unit on a particular idea or topic.</h4>
+<h4>A paragraph is a group of sentences making absolute sense which has a topic sentence,</h4> supporting 
+<h4>sentences, and a conclusion statement.</h4>
+<p1>about fish</p1></br>
+<p2>Fish</p2></br> <p3>are aquatic, craniate, gill-bearing animals that lack limbs with digits. Included in this definition are the living hagfish, lampreys</p3>
+<style type="text/css">
+
+</style>
+
+</head>
+<body>
+ <h1>pH Scale</h1>
+ <p class="fourteen">14.0 VERY ALKALINE</p>
+ <p class="thirteen">13.0</p>
+ <p class="twelve">12.0</p>
+ <p class="eleven">11.0</p>
+ <p class="ten">10.0</p>
+ <p class="nine">9.0</p>
+ <p class="eight">8.0</p>
+ <p class="seven">7.0 NEUTRAL</p>
+ <p class="six">6.0</p>
+ <p class="five">5.0</p>
+ <p class="four">4.0</p>
+ <p class="three">3.0</p>
+ <p class="two">2.0</p>
+ <p class="one">1.0</p>
+ <p class="zero">0.0 VERY ACID</p>
+ <title>Font Family</title>
+
+ <style type="text/css">
+ body {
+ font-family: Georgia, Times, serif;}
+ h1, h2 {
+ font-family: Arial, Verdana, sans-serif;}
+ .credits {
+ font-family: "Courier New", Courier, 
+ monospace;}
+ </style>
+</head>
+<body>
+ <h5>Briards</h5>
+ <p class="credits">by Ivy Duckett</p>
+ <p class="intro">The <a class="breed" 
+ href="http://en.wikipedia.org/wiki/
+ Briard">briard</a>, or berger de brie, is 
+ a large breed of dog traditionally used as 
+ a herder and guardian of sheep</p>
+<p> The font-size property enables 
+you to specify a size for the 
+font. There are several ways to 
+specify the size of a font. The 
+most common are:
+pixels
+Pixels are commonly used 
+because they allow web 
+designers very precise control 
+over how much space their text 
+takes up. The number of pixels is 
+followed by the letters px</p>
+The font-weight property 
+
+ <p>allows you to create bold text. 
+There are two values that this 
+property commonly </p>
+<h7>Briards</h7>
+ <p4 class="credits">by Ivy Duckett</p4>
+ <p class="intro">The <a class="breed" 
+ href="http://en.wikipedia.org/wiki/
+ Briard">briard</a>, or berger de brie, is 
+ a large breed of dog traditionally used as 
+ a herder and guardian of sheep</p>
+<h8> The font-size property enables 
+you to specify a size for the 
+font. There are several ways to 
+specify the size of a font. The 
+most common are:
+pixels
+Pixels are commonly used 
+because they allow web 
+designers very precise control 
+over how much space their text 
+takes up. The number of pixels is 
+followed by the letters px</h8></br>
+<p5> thats the point </p5></br>
+<h9> Leading (pronounced ledding) is 
+a term typographers use for the 
+vertical space between lines of 
+text.</h9></br>
+<h10>Kerning is the term 
+typographers use for the space 
+between each letter. You can 
+control the space between each 
+letter with the letter-spacing
+property.</h10></br>
+<h11>when life gets blurry adjust your focus</h11></br>
+<h12>when life gets blurry adjust your focus</h12>
+<style type="text/css">
+<body>
+
+ <h11>Briards</h11>
+ <h12>A Heart wrapped in fur</h12>
+ <p class="intro">The <a class="breed" href="http://en.wikipedia.org/wikiBriard">
+ briard</a>, or berger de brie, is a large breed of dog traditionally used as a 
+ herder and guardian of sheep.</p>
+ <h13>Breed History</h13>
+ <p>The briard, which is believed to have originated in France, has been bred for 
+ centuries to herd and to protect sheep. The breed was used by the French Army as 
+ sentries, messengers and to search for wounded soldiers because of its fine sense 
+ of hearing. Briards were used in the First World War almost to the point of 
+ extinction. Currently the population of briards is slowly recovering. 
+ Charlemagne, Napoleon, Thomas Jefferson and Lafayette all owned briards.</p>
+ <p class="credits">by Ivy Duckett</p> </style>
+
+</head></body>
+</html>
